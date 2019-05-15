@@ -33,7 +33,7 @@ NewPing sonar_b(TRIGGER_PIN_B, ECHO_PIN_B, MAX_DISTANCE);
 
   runningMedian:
     Documentation:  http://playground.arduino.cc/Main/RunningMedian
-    Git Repo:       https://github.com/luisllamasbinaburo/Arduino-MedianFilter
+    Git Repo:       https://github.com/RobTillaart/Arduino/tree/master/libraries/RunningMedian
 
   Two running medians are used:
   name
